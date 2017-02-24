@@ -2,7 +2,7 @@ import React from 'react'
 import * as action from './reducer/reducer'
 import { connect } from 'react-redux'
 
-class Blog extends React.Component {
+class App extends React.Component {
 	constructor(props) {
 		super(props);
 	}
@@ -22,4 +22,4 @@ function mapStateToProps(state) {
 	}
 }
 
-export default connect(mapStateToProps)(Blog)
+export default connect(mapStateToProps)(App)

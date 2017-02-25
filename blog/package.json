@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
+  "name": "blog",
   "version": "1.0.0",
-  "description": "boilerplate for react node",
+  "description": "blog for a friend",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
